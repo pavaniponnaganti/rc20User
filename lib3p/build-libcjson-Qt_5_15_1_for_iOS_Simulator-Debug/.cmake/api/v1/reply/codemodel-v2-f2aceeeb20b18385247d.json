@@ -1,0 +1,279 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				},
+				{
+					"build" : "tests",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"build" : "fuzzing",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "fuzzing"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "cJSON",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cJSON_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cJSON_test-Debug-aba1b91881fc0467cc63.json",
+					"name" : "cJSON_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check-Debug-6fb76e7223efa33f80fd.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cjson::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cjson-Debug-a9a745e0fc38507e6d97.json",
+					"name" : "cjson",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cjson-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cjson-static-Debug-1e0edd37c58b12defe5d.json",
+					"name" : "cjson-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cjson_add::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-cjson_add-Debug-184dc497a9c846110e11.json",
+					"name" : "cjson_add",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "compare_tests::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-compare_tests-Debug-7f85535b1bf8b5a58dc3.json",
+					"name" : "compare_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "misc_tests::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-misc_tests-Debug-1a4cdedcafbbf379061c.json",
+					"name" : "misc_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_array::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_array-Debug-bfa8836bce209adb1a3e.json",
+					"name" : "parse_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_examples::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_examples-Debug-3efd40a263b002a97acf.json",
+					"name" : "parse_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_hex4::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_hex4-Debug-bdb95163e49f7571b25f.json",
+					"name" : "parse_hex4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_number::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_number-Debug-8c78a55234afd95bc1d3.json",
+					"name" : "parse_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_object::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_object-Debug-39f9e97c0a7dbbe75dae.json",
+					"name" : "parse_object",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_string::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_string-Debug-da02c55a17fb8661df49.json",
+					"name" : "parse_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_value::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_value-Debug-c0bdb1f50ece63e0144e.json",
+					"name" : "parse_value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parse_with_opts::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-parse_with_opts-Debug-da67af5604711c0ce8cd.json",
+					"name" : "parse_with_opts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "print_array::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-print_array-Debug-f73d73dfb5db028af32d.json",
+					"name" : "print_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "print_number::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-print_number-Debug-afbc4153bc3a689bd46e.json",
+					"name" : "print_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "print_object::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-print_object-Debug-a3076d03224a97c3ea8c.json",
+					"name" : "print_object",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "print_string::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-print_string-Debug-4e1cae255090f3d3593c.json",
+					"name" : "print_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "print_value::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-print_value-Debug-750f7ab3011b1f3e14e5.json",
+					"name" : "print_value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "readme_examples::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-readme_examples-Debug-80323722777c9fe43022.json",
+					"name" : "readme_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "unity::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-unity-Debug-99874f1c22a8ef776900.json",
+					"name" : "unity",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug",
+		"source" : "/Users/naveenpareek/Downloads/rc20-user/lib3p/libcjson"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

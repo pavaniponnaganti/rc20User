@@ -1,0 +1,12 @@
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wformatoverflow failed with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_2105a && [1/2] Building C object CMakeFiles/cmTC_2105a.dir/src.c.o
+FAILED: CMakeFiles/cmTC_2105a.dir/src.c.o 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --target=x86_64-apple-darwin18.7.0 --sysroot=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wcomma -Wdouble-promotion -Wparentheses -DFLAG_SUPPORTED_Wformatoverflow -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14   -Wformat-overflow -o CMakeFiles/cmTC_2105a.dir/src.c.o   -c src.c
+error: unknown warning option '-Wformat-overflow'; did you mean '-Wshift-overflow'? [-Werror,-Wunknown-warning-option]
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main(void) { return 0; }

@@ -1,0 +1,18 @@
+/** @defgroup group_main_apis Webserver Library Main APIs
+  * @brief Webserver Library Main APIs use by consumer process (e.g. Webserver Daemon)
+  *
+  * This modules includes all APIs available to user of  Webserver library.
+  *
+  * @{
+  */
+/** @} */
+/** @defgroup group_prot_apis Relay WebSockets Protocol APIs
+  * @brief Relay WebSockets Protocol Main APIs use by WebSockets subprotocols
+  *
+  * This are the list of protocol needed by Relay's subprotocols that need to execute on top of the
+  * Relay WebSockets Protocol.
+  *
+  * @{
+  */
+/** @} */
+

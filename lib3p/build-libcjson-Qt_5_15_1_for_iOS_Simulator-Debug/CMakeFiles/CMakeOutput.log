@@ -1,0 +1,1444 @@
+The system is: Darwin - 18.7.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is AppleClang, found in "/Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/3.17.1/CompilerIdC/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_fa761 && [1/2] Building C object CMakeFiles/cmTC_fa761.dir/testCCompiler.c.o
+[2/2] Linking C executable cmTC_fa761
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_8a4b3 && [1/2] Building C object CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.o
+Apple clang version 11.0.0 (clang-1100.0.33.17)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.14.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.gcno -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.14.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.o -x c /Users/naveenpareek/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c
+clang -cc1 version 11.0.0 (clang-1100.0.33.17) default target x86_64-apple-darwin18.7.0
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+[2/2] Linking C executable cmTC_8a4b3
+Apple clang version 11.0.0 (clang-1100.0.33.17)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.14.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk -o cmTC_8a4b3 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
+@(#)PROGRAM:ld  PROJECT:ld64-530
+BUILD 18:57:17 Dec 13 2019
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib
+Framework search paths:
+	/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+  end of search list found
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+  implicit include dirs: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_8a4b3 && [1/2] Building C object CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.o]
+  ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.17)]
+  ignore line: [Target: x86_64-apple-darwin18.7.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
+  ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.14.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.gcno -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.14.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.o -x c /Users/naveenpareek/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.17/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 11.0.0 (clang-1100.0.33.17) default target x86_64-apple-darwin18.7.0]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/Library/Frameworks"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks (framework directory)]
+  ignore line: [End of search list.]
+  ignore line: [[2/2] Linking C executable cmTC_8a4b3]
+  ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.17)]
+  ignore line: [Target: x86_64-apple-darwin18.7.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.14.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk -o cmTC_8a4b3 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.14.0] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_8a4b3] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-v] ==> ignore
+    arg [CMakeFiles/cmTC_8a4b3.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib]
+  Framework search paths: [;/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib]
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks]
+  implicit libs: []
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks]
+
+
+Performing C SOURCE FILE Test FLAG_SUPPORTED_stdc89 succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_eec36 && [1/2] Building C object CMakeFiles/cmTC_eec36.dir/src.c.o
+[2/2] Linking C executable cmTC_eec36
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_pedantic succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_faf75 && [1/2] Building C object CMakeFiles/cmTC_faf75.dir/src.c.o
+[2/2] Linking C executable cmTC_faf75
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wall succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_2c965 && [1/2] Building C object CMakeFiles/cmTC_2c965.dir/src.c.o
+[2/2] Linking C executable cmTC_2c965
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wextra succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_bffd4 && [1/2] Building C object CMakeFiles/cmTC_bffd4.dir/src.c.o
+[2/2] Linking C executable cmTC_bffd4
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Werror succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_6292b && [1/2] Building C object CMakeFiles/cmTC_6292b.dir/src.c.o
+[2/2] Linking C executable cmTC_6292b
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wstrictprototypes succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_7134f && [1/2] Building C object CMakeFiles/cmTC_7134f.dir/src.c.o
+[2/2] Linking C executable cmTC_7134f
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wwritestrings succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_8dbb1 && [1/2] Building C object CMakeFiles/cmTC_8dbb1.dir/src.c.o
+[2/2] Linking C executable cmTC_8dbb1
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wshadow succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_51431 && [1/2] Building C object CMakeFiles/cmTC_51431.dir/src.c.o
+[2/2] Linking C executable cmTC_51431
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Winitself succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_3ce8d && [1/2] Building C object CMakeFiles/cmTC_3ce8d.dir/src.c.o
+[2/2] Linking C executable cmTC_3ce8d
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wcastalign succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_4af89 && [1/2] Building C object CMakeFiles/cmTC_4af89.dir/src.c.o
+[2/2] Linking C executable cmTC_4af89
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wformat2 succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_f873c && [1/2] Building C object CMakeFiles/cmTC_f873c.dir/src.c.o
+[2/2] Linking C executable cmTC_f873c
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wmissingprototypes succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_7d017 && [1/2] Building C object CMakeFiles/cmTC_7d017.dir/src.c.o
+[2/2] Linking C executable cmTC_7d017
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wstrictoverflow2 succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_0ad6e && [1/2] Building C object CMakeFiles/cmTC_0ad6e.dir/src.c.o
+[2/2] Linking C executable cmTC_0ad6e
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wcastqual succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_4dae6 && [1/2] Building C object CMakeFiles/cmTC_4dae6.dir/src.c.o
+[2/2] Linking C executable cmTC_4dae6
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wundef succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_417bb && [1/2] Building C object CMakeFiles/cmTC_417bb.dir/src.c.o
+[2/2] Linking C executable cmTC_417bb
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wswitchdefault succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_e4f5d && [1/2] Building C object CMakeFiles/cmTC_e4f5d.dir/src.c.o
+[2/2] Linking C executable cmTC_e4f5d
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wconversion succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_68168 && [1/2] Building C object CMakeFiles/cmTC_68168.dir/src.c.o
+[2/2] Linking C executable cmTC_68168
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wccompat succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_6f3fe && [1/2] Building C object CMakeFiles/cmTC_6f3fe.dir/src.c.o
+[2/2] Linking C executable cmTC_6f3fe
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_fstackprotectorstrong succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_7ae31 && [1/2] Building C object CMakeFiles/cmTC_7ae31.dir/src.c.o
+[2/2] Linking C executable cmTC_7ae31
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wcomma succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_80b6b && [1/2] Building C object CMakeFiles/cmTC_80b6b.dir/src.c.o
+[2/2] Linking C executable cmTC_80b6b
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wdoublepromotion succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_53a05 && [1/2] Building C object CMakeFiles/cmTC_53a05.dir/src.c.o
+[2/2] Linking C executable cmTC_53a05
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wparentheses succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_ded64 && [1/2] Building C object CMakeFiles/cmTC_ded64.dir/src.c.o
+[2/2] Linking C executable cmTC_ded64
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wunusedmacros succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_47709 && [1/2] Building C object CMakeFiles/cmTC_47709.dir/src.c.o
+[2/2] Linking C executable cmTC_47709
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wmissingvariabledeclarations succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_be9e3 && [1/2] Building C object CMakeFiles/cmTC_be9e3.dir/src.c.o
+[2/2] Linking C executable cmTC_be9e3
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wusedbutmarkedunused succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_72883 && [1/2] Building C object CMakeFiles/cmTC_72883.dir/src.c.o
+[2/2] Linking C executable cmTC_72883
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_Wswitchenum succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_a4c2b && [1/2] Building C object CMakeFiles/cmTC_a4c2b.dir/src.c.o
+[2/2] Linking C executable cmTC_a4c2b
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test FLAG_SUPPORTED_fvisibilityhidden succeeded with the following output:
+Change Dir: /Users/naveenpareek/Downloads/rc20-user/lib3p/build-libcjson-Qt_5_15_1_for_iOS_Simulator-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/naveenpareek/Qt/Tools/Ninja/ninja cmTC_1db75 && [1/2] Building C object CMakeFiles/cmTC_1db75.dir/src.c.o
+[2/2] Linking C executable cmTC_1db75
+ld: warning: building for macOS, but linking in .tbd file (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libSystem.tbd) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcache.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcommonCrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcompiler_rt.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcopyfile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libcorecrypto.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdispatch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libdyld.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/liblaunch.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libmacho.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libremovefile.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_asl.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_blocks.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_c.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_configuration.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_containermanager.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_coreservices.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_darwin.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_dnssd.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_featureflags.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_info.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_m.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_malloc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_notify.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sandbox.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_trace.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libunwind.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libxpc.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_kernel_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_platform_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_sim_pthread_host.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_kernel.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_platform.dylib) built for iOS Simulator
+ld: warning: building for macOS, but linking in .tbd file (/usr/lib/system/libsystem_pthread.dylib) built for iOS Simulator
+
+
+Source file was:
+int main(void) { return 0; }

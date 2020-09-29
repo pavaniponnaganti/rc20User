@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <version str="1.0">
+        <major>1</major>
+        <minor>0</minor>
+    </version>
+    <language-resources location="resources/languages">
+        <languages>
+         <version str="28.0">
+                <major>28</major>
+                <minor>0</minor>
+            </version>
+            <language>en_AU</language>
+            <language>es_ES</language>
+            <language>pt_BR</language>
+        </languages>
+    </language-resources>
+    <redirects location="redirects">
+        <redirect code="400" name="400.html"/>
+        <redirect code="401" name="401.html"/>
+        <redirect code="403" name="403.html"/>
+        <redirect code="404" name="404.html"/>
+    </redirects>
+    <website>
+        <default>index.html</default>
+        <resource url="/second" source="second.html"/>
+        <resource url="/third" source="third.html"/>
+        <resource url="/fourth" source="subfolder/fourth.html"/>
+    </website>
+</configuration>

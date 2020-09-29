@@ -1,0 +1,51 @@
+/** @ingroup group_prot_apis
+  * @brief Relay WebSockets Protocol message reception callback function
+  *
+  * Default handler for message received. This function will alwats return NwsError_Ok and  will
+  * do nothing to the data received
+  *
+  * @param[in] context Defines the attribute of the communication channel where the message was recieved.
+  * @param[in] data Buffer to the data to send. This buffer is returned by the decode callback function it is assumed
+  * the subprotocol will free this buffer if required.
+  * @param[in] size Specify the size of the data pointed by data buffer.
+  *
+  * @return NwsError_Ok if no error occured
+  * @return NwsError_Ng General error occured
+  */
+RwspErrors rwspRcvdCbDef(RwspCtx *context, RwspData data, RwspDataSize size);
+
+/** @ingroup group_prot_apis
+  * @brief Convert the subprotocol data into JSON compatible string data
+  *
+  * Default handler for converting the subprotocol specific data into JSON string. This handler will convert
+  * the stream into base64 format.
+  *
+  * @param[in] buffer Buffer to the byte stream to convert.
+  * @param[in] size Specify the size of the data pointed by buffer
+  * @param[out] content Converted data in CJSON library JSON object. See https://github.com/DaveGamble/cJSON for details.
+  * of CJSON library. This resource will be freed by the Relay WebSockets Protocol implementation using the CJSON
+  * cJSON_Delete function.
+  * @param[out] contentType Specify the type of the encoded data.
+  *
+  * @return NwsError_Ok if no error occured
+  * @return NwsError_Ng General error occured
+  */
+RwspErrors rwspEncCbDef(RwspData buffer, RwspDataSize size, cJSON **content, RwspContentTypes *contentType);
+
+/** @ingroup group_prot_apis
+  * @brief Convert the JSON string data into the subprotocol format.
+  *
+  * Default handler for converting the JSON object into subprotocol specific data. This handler will convert
+  * octet-stream into byte stream and text into null terminated string. Other content-types are not supported.
+  *
+  * @param[in] json Pointer to the cJSON library JSON object. See https://github.com/DaveGamble/cJSON for details. This function
+  * will not free this object.
+  * @param[in]  contentType Specify the content type of the JSON object.
+  * @param[out] buffer Buffer to the byte stream to convert. This buffer will be send to the subprotocol for handling and
+  * assumed the subprotocol will handle any freeing needed for this buffer.
+  * @param[out] size Specify the size of the data pointed by buffer.
+  *
+  * @return RwspError_Ok if no error occured
+  * @return RwspError_Ng General error occured
+  */
+RwspErrors rwspDecCbDef(cJSON *json, RwspContentTypes contentType, RwspData *buffer, RwspDataSize *size);
